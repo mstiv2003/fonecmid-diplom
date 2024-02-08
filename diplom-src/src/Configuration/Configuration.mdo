@@ -1284,6 +1284,7 @@
   <informationRegisters>InformationRegister.УдалитьХранимыеФайлыВерсий</informationRegisters>
   <informationRegisters>InformationRegister.УдаляемыеОбъекты</informationRegisters>
   <informationRegisters>InformationRegister.ФайлыВРабочемКаталоге</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_АбонентскаяРабота</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПокупателей</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПоставщикам</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Затраты</accumulationRegisters>
