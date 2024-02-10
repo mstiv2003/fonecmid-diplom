@@ -331,8 +331,8 @@
       </title>
       <id>6</id>
       <valueType>
-        <types>Number</types>
         <types>Date</types>
+        <types>Number</types>
         <numberQualifiers>
           <precision>10</precision>
         </numberQualifiers>
